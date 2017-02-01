@@ -6,7 +6,7 @@ Paper elements
 ```
 <custom-element-demo>
   <template>
-    <link rel="import" href="paper-avatar.html">
+	<link rel="import" href="https://user-content-dot-custom-elements.appspot.com/Abe90/paper-avatar/0.1.4/paper-avatar/paper-avatar.html">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
@@ -22,7 +22,7 @@ Paper elements
 ```
 <custom-element-demo>
   <template>
-    <link rel="import" href="paper-checkbox-item.html">
+    <link rel="import" href="https://user-content-dot-custom-elements.appspot.com/Abe90/paper-checkbox-item/0.0.1/paper-checkbox-item/paper-checkbox-item.html">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
