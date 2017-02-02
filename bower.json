@@ -16,7 +16,7 @@
     "element-collection"
   ],
   "dependencies": {
-    "paper-avatar": "Abe90/paper-avatar#^0.1.4",
+    "paper-avatar": "Abe90/paper-avatar#^1.0.0",
     "paper-checkbox-item": "Abe90/paper-checkbox-item#^0.0.1"
   }
 }
